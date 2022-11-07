@@ -29,9 +29,9 @@
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 ```yaml
-name: Dylan Pietersen
-located_in: Pretoria, South Africa
-current_job: Full Stack Developer
+name: "Dylan Pietersen"
+located_in: "Pretoria, South Africa"
+current_job: "Full Stack Developer"
 education:
   [
     "Computer Scientist and Software Developer",
