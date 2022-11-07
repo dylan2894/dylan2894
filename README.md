@@ -20,6 +20,38 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </p>
 
-<p align="center" style="height: 300px;">
+<p align="center">
   <img src="https://media.giphy.com/media/3o7TKoRheHhMA3qxS8/giphy.gif">
 </p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+
+```yaml
+name: Dylan Pietersen
+located_in: Pretoria, South Africa
+current_job: Full Stack Developer
+education:
+  [
+    "Computer Scientist and Software Developer",
+    "Bachelors or Science (BSc) in Information and Knowledge Systems - University of Pretoria"
+  ]
+company: "Retro Rabbit"
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Security",
+    "UI/UX",
+    "DevOps"
+  ]
+ 
+currently_learning: ["ThreeJS", "Flutter", "Neo4j"]
+2023 Goals: ["AZ-100 Exam", "AZ-104 Exam"]
+hobbies: ["Playing a Drumset", "Playing the Piano 🌚", "Art", "Music"]
+```
+  
+---  
