@@ -20,6 +20,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </p>
 
-<p align="center">
+<p align="center" style="height: 50%;">
   <img src="https://media.giphy.com/media/3o7TKoRheHhMA3qxS8/giphy.gif">
 </p>
