@@ -85,5 +85,11 @@ hobbies: ["Playing a Drumset", "Playing the Piano 🌚", "Art", "Music"]
 <h2> 📈 &nbsp;My GitHub Contributions</h2>
 <a href="https://github.com/dylan2894">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dylan2894&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan2894&theme=noctis_minimus&layout=compact" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan2894&theme=noctis_minimus&layout=compact" /> -->
 </a>
+
+![Snake animation](https://github.com/dylan2894/dylan2894/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
