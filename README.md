@@ -1,15 +1,13 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<!-- Top Header text -->
-<h1 align="center">
-  Let's Connect!💬
-</h1>
-
 <!-- Links with Icons -->
-<p align="center">
+<div align="center">
+  <h1 align="center">
+    Hi :)
+  </h1>
   <a href="https://www.linkedin.com/in/dylan-pietersen-84462a174">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
@@ -19,21 +17,18 @@
   <a href="https://dev.to/dylan2894">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
   </a>
-</p>
+</div>
 
 <!-- Awesome Sauce gif -->
 <!--p align="center">
   <img src="https://media.giphy.com/media/3o7TKoRheHhMA3qxS8/giphy.gif">
 </p-->
 
----
-
 <h2>🧑🏼‍💻 &nbsp;About Me</h2>
 
 ```yaml
 name: "Dylan Pietersen"
 located_in: "Pretoria, South Africa"
-current_job: "Full Stack Developer"
 education:
   [
     "Computer Scientist and Software Developer",
@@ -54,8 +49,6 @@ currently_learning: ["ThreeJS", "Flutter", "Neo4j"]
 2023_goals: ["AZ-100 Exam", "AZ-104 Exam"]
 hobbies: ["Playing a Drumset", "Playing the Piano 🌚", "Art", "Music"]
 ```
-
----  
 
 <h2> 🚀 &nbsp;My Tech Stack</h2>
 <p align="center">
@@ -80,8 +73,6 @@ hobbies: ["Playing a Drumset", "Playing the Piano 🌚", "Art", "Music"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
 </p>
-
----
 
 <h2> 📈 &nbsp;My GitHub Contributions</h2>
 <div align="center">
